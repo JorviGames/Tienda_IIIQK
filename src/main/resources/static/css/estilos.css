@@ -1,0 +1,121 @@
+/*
+#encabezado{
+    
+    color: blueviolet;
+    font-weight: bold;
+    
+}
+
+#tituloPrincipal{
+    
+    color: red;
+    font-family: Comic Sans MS;
+        
+}
+
+.parrafosCentrados{
+    
+    text-align: center;
+    font-weight: bold;
+    color: grey
+    
+}
+
+.textoVerde{
+    
+    color:#33ff00
+    
+}
+
+* {
+    
+    color:whitesmoke;
+    
+}
+
+p, h1, span {
+    
+    color: blue;
+    
+}
+
+a:link {
+    
+    background-color: green;
+    color: white;
+    
+}
+
+a:visited{
+    
+    background-color: violet; 
+    
+}
+
+a:hover{
+    
+    background-color: darkblue;
+    color: white;
+    
+}
+
+a:active{
+    
+    background-color: red;
+    color: white;
+    
+}
+
+p:nth-child(odd){
+    
+    background-color:#ff9900;
+    
+    
+}
+
+p:nth-child(even){
+    
+    background-color:#3399ff
+    
+}
+
+*/
+
+
+#barraleteral{
+    
+    position: absolute;
+    height: 81%;
+    top: 12%;
+    left: 0;
+    width: 20%;
+    background-color: forestgreen;
+    padding: 10px;
+    
+}
+
+#contenido{
+    
+    position: absolute;
+    height: 81%;
+    top: 12%;
+    left: 20%;
+    width: 80%;
+    background-color: goldenrod;
+    padding: 10px;
+    
+}
+
+#piepagina{
+    
+    position: absolute;
+    height: 7%;
+    bottom: 0;
+    left: 0%;
+    width: 100%;
+    background-color: lightcoral;
+    text-align: center;
+    padding-top: 25px;
+   
+    
+}
